@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chintanwagh
 - 👀 I’m interested in data anaytics
-- 🌱 I’m currently learning R studio 
+- 🌱 I’m currently learning Power BI  
 - 📫 You can reach me on chintanwagh1996@gmail.com
 
 <!---
