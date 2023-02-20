@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chintanwagh
 - 👀 I’m interested in data anaytics
 - 🌱 I’m currently learning R studio 
-- 📫 You can reach me on chintanwagh4@gmail.com
+- 📫 You can reach me on chintanwagh1996@gmail.com
 
 <!---
 chintanwagh/chintanwagh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
