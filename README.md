@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chintanwagh
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Analytics and Data Science 
 - 🌱 I’m currently learning ML and Power BI 
 - 📫 You can reach me on chintanwagh1996@gmail.com
 
